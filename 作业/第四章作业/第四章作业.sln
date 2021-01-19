@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四章作业", "第四章作业\第四章作业.vcxproj", "{42F0CEFE-C6F1-4FE2-8DE4-E0C9FCD165DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F0CEFE-C6F1-4FE2-8DE4-E0C9FCD165DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42F0CEFE-C6F1-4FE2-8DE4-E0C9FCD165DD}.Debug|Win32.Build.0 = Debug|Win32
+		{42F0CEFE-C6F1-4FE2-8DE4-E0C9FCD165DD}.Release|Win32.ActiveCfg = Release|Win32
+		{42F0CEFE-C6F1-4FE2-8DE4-E0C9FCD165DD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
